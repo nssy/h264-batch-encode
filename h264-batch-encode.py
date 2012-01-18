@@ -1,4 +1,4 @@
-#!/usr/bin/python3.1
+#!/usr/bin/python3
 # Author: NssY Wanyonyi
 # Purpose: Encode Multiple Files to mp4 (h264/aac)
 # Date: 3rd Jan 2012
